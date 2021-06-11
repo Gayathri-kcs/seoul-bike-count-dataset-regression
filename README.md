@@ -1,1 +1,1 @@
-# using machinelearning algorithm with the seoul bike count dataset#
+# using machinelearning for the seoul bike count dataset#
